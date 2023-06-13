@@ -1,0 +1,15 @@
+.container {
+  max-width: 400px;
+  margin: 100px auto;
+}
+input {
+  padding: 20px;
+  width: 200px;
+}
+
+button{
+  margin: 10px;
+/*  display: inline-block;*/
+  margin-left: 50%;
+  transform: translate(-50%);
+}
